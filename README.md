@@ -1,4 +1,4 @@
-# Golang-Authenication-Middleware
+# Golang-Authentication-Middleware
 
 Created middleware using golang to demonstrate working of authentication. Using this middleware, Person can be authenticated on middleware itself.
 Here are the instructions to use this middleware.
